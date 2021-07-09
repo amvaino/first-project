@@ -14,15 +14,15 @@
   background-size: contain;
   background: center no-repeat;
 }
-.resources__logo_arzamas {
+.resources__logo_type_arzamas {
   background-image: url(../../images/logo/resources-arzamas.svg);
 }
-.resources__logo_n1 {
+.resources__logo_type_nplusone {
   background-image: url(../../images/logo/resources-n1.svg);
 }
-.resources__logo_polka {
+.resources__logo_type_polka {
   background-image: url(../../images/logo/resources-polka.svg);
 }
-.resources__logo_strelka {
+.resources__logo_type_strelka {
   background-image: url(../../images/logo/resources-strelka.svg);
 }
