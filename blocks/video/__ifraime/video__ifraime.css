@@ -1,0 +1,9 @@
+.video__ifraime {
+  width: 515px;
+  height: 316px;
+  margin-right: 20px;
+  border: none;
+}
+.video__ifraime:last-child {
+  margin-right: 0;
+}

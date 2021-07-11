@@ -4,3 +4,6 @@
   background-size: contain;
   background: center no-repeat;
 }
+.resources__logo:hover {
+  box-shadow: 0 0 5px rgb(0 0 0 / 50%);
+}
