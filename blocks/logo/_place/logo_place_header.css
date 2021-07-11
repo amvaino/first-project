@@ -1,6 +1,5 @@
 .logo_place_header {
   margin: 30px 0 0 64px;
   z-index: 1;
-  background-image: url(/../images/logo_place_footer.svg)
-  /*  background-image: url() center center / contain no-repeat; */
+  background-image: url(../../../images/logo_place_footer.svg)
 }
